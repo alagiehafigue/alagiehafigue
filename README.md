@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alagie%20Hafigue%20Bah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alagie%20Hafigue%20Bah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Enginner&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
 
