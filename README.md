@@ -1,29 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alagie%20Hafigue%20Bah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=62" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alagie%20Hafigue%20Bah&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=62" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="https://github.com/alagiehafigue">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=%28%29+%3D%3E+npm+run+dev;TypeScript+%26+Node.js;React+%26+Next.js;Python+%26+Backend+APIs;Open+to+remote+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=%28%29+%3D%3E+npm+run+dev;TypeScript+%26+Node.js;React+%26+Next.js;Python+%26+Backend+APIs" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/KNUST-Computer%20Science-A78BFA?style=for-the-badge" alt="KNUST" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-22C55E?style=for-the-badge" alt="Open to remote" />
 
 </div>
 
 ---
 
-## 👋 About me
+## About me
 
-Hi, I'm **Hafiz**! 👋 I'm a Computer Science student at **KNUST** and a full-stack developer who loves clean, useful software.
+Hi, I'm **Hafiz**. I'm a Computer Science student at **KNUST** and a full-stack developer who is fascinated by how technology works and loves learning something new every day.
 
-**Why I code:** I love turning ideas into reality. 💡➡️💻 Whether it's a full-stack web app or a fun command-line tool, nothing beats seeing something I imagined actually work.
+**Why I code:** I love turning ideas into reality. Whether it's a full-stack web app or a fun command-line tool, nothing beats seeing something I imagined actually work.
 
 I mostly work with TypeScript, React, Next.js and Node.js, and I also use Python.
 
-I'm looking for a software engineering role, and remote work is my main goal. If you have an opportunity or just want to chat tech, say hi! 🚀
+If you want to chat tech or build something together, say hi!
 
 ---
 
@@ -112,17 +107,6 @@ I'm looking for a software engineering role, and remote work is my main goal. If
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alagiehafigue&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alagiehafigue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-
-</div>
-
----
-
 ## 🤝 Let's connect
 
 <div align="center">
@@ -133,4 +117,4 @@ I'm looking for a software engineering role, and remote work is my main goal. If
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
