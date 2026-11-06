@@ -10,19 +10,19 @@
 
 ---
 
-## About me
+## ✨ About me
 
-Hi, I'm **Hafiz**. I'm a Computer Science student at **KNUST** and a full-stack developer who is fascinated by how technology works and loves learning something new every day.
+Hi, I'm **Hafiz**! 👋 I'm a Computer Science student at **KNUST** and a full-stack developer who is fascinated by how technology works and loves learning something new every day. 🔭
 
-**Why I code:** I love turning ideas into reality. Whether it's a full-stack web app or a fun command-line tool, nothing beats seeing something I imagined actually work.
+**💡 Why I code:** I love turning ideas into reality. Whether it's a full-stack web app or a fun command-line tool, nothing beats seeing something I imagined actually work.
 
 I mostly work with TypeScript, React, Next.js and Node.js, and I also use Python.
 
-If you want to chat tech or build something together, say hi!
+If you want to chat tech or build something together, say hi! 🙌
 
 ---
 
-## 🛠️ Tech stack
+## ⚡ Tech stack
 
 <div align="center">
 
@@ -107,7 +107,7 @@ If you want to chat tech or build something together, say hi!
 
 ---
 
-## 🤝 Let's connect
+## 💬 Let's connect
 
 <div align="center">
 
