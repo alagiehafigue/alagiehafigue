@@ -12,7 +12,7 @@
 
 ## ✨ About me
 
-Hi, I'm **Hafiz**! 👋 I'm a Computer Science student at **KNUST** and a full-stack developer who is fascinated by how technology works and loves learning something new every day. 🔭
+Hi, I'm **Alagie**! 👋 I'm a Computer Science student at **KNUST** and a software engineer who is fascinated by how technology works. I'm always building and learning something new.🔭
 
 **💡 Why I code:** I love turning ideas into reality. Whether it's a full-stack web app or a fun command-line tool, nothing beats seeing something I imagined actually work.
 
@@ -94,7 +94,7 @@ If you want to chat tech or build something together, say hi! 🙌
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/alagiehafigue/pokedex">pokedex</a></h3>
+      <h3>🎮 <a href="https://github.com/alagiehafigue/pokedex">mondex</a></h3>
       <p>A command-line app that connects to the PokéAPI and simulates a game engine loop, letting you move around map regions and explore.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
