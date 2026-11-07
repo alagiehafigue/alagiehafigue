@@ -12,7 +12,7 @@
 
 ## ✨ About me
 
-Hi, I'm **Alagie**! 👋 I'm a Computer Science student at **KNUST** and a software engineer who is fascinated by how technology works. I'm always building and learning something new.🔭
+Hi, I'm **Alagie**! 👋 I'm a Computer Science student at **KNUST** and a **Software engineer** who is fascinated by how technology works. I'm always building and learning something new.🔭
 
 **💡 Why I code:** I love turning ideas into reality. Whether it's a full-stack web app or a fun command-line tool, nothing beats seeing something I imagined actually work.
 
